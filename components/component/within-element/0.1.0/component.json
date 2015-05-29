@@ -1,0 +1,17 @@
+{
+  "name": "within-element",
+  "description": "check if an element is within the element",
+  "version": "0.1.0",
+  "keywords": [
+    "dom",
+    "element"
+  ],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "repository": "component/within-element",
+  "resolved": "54fc68581324ca98972faddb6d8c2e5bb3f0ac3f"
+}

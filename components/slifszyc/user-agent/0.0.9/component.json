@@ -1,0 +1,30 @@
+{
+  "name": "user-agent",
+  "description": "User agent parser",
+  "version": "0.0.9",
+  "keywords": [
+    "user",
+    "agent",
+    "parser",
+    "ua",
+    "browser",
+    "version"
+  ],
+  "dependencies": {
+    "component/inherit": "*"
+  },
+  "development": {},
+  "scripts": [
+    "index.js",
+    "lib/ie.js",
+    "lib/ff.js",
+    "lib/chrome.js",
+    "lib/safari.js",
+    "lib/mac.js",
+    "lib/query.js"
+  ],
+  "main": "index.js",
+  "license": "MIT",
+  "repository": "slifszyc/user-agent",
+  "resolved": "e85b16720c5032401197742d4e79d9e6799f07fc"
+}

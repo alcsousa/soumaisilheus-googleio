@@ -1,0 +1,16 @@
+{
+  "name": "mutation-observer",
+  "version": "0.0.1",
+  "description": "Exposes the `MutationObserver` constructor.",
+  "keywords": [
+    "mutation",
+    "observer",
+    "dom",
+    "changes"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "repository": "component/mutation-observer",
+  "resolved": "9f7e3dca3497a5c196e35f1e62cc78e1743c5964"
+}

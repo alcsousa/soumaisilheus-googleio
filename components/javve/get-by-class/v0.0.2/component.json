@@ -1,0 +1,15 @@
+{
+  "name": "get-by-class",
+  "description": "A cross-browser implementation of getElementsByClass",
+  "version": "0.0.2",
+  "keywords": [
+    "class",
+    "classname"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "twitter": "@javve",
+  "repository": "javve/get-by-class",
+  "resolved": "ed797ae37309f178fdc7c3de91d1aa5c6d1bad91"
+}

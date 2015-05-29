@@ -1,0 +1,19 @@
+{
+  "name": "bounds",
+  "description": "Mixin for checking if value is inside or outside of bounds",
+  "version": "1.0.0",
+  "keywords": [
+    "range",
+    "compare"
+  ],
+  "dependencies": {
+    "component/clone": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ],
+  "repository": "code42day/bounds",
+  "resolved": "c8fb57c74f3cd3359b2ff2bbd813e8c5133c088c"
+}

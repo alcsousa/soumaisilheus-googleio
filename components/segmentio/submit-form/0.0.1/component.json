@@ -1,0 +1,26 @@
+{
+  "name": "submit-form",
+  "description": "Submit a form programmatically, triggering its submit handlers.",
+  "version": "0.0.1",
+  "license": "MIT",
+  "keywords": [
+    "submit",
+    "form",
+    "event",
+    "trigger",
+    "bind"
+  ],
+  "dependencies": {
+    "ianstormtaylor/trigger-event": "*"
+  },
+  "development": {
+    "dependencies": {
+      "component/assert": "*"
+    }
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "repository": "segmentio/submit-form",
+  "resolved": "231f4d253adf3a6c1de0de21006c8e2386c7d63a"
+}

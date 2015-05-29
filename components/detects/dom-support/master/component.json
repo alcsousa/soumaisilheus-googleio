@@ -1,0 +1,19 @@
+{
+  "name": "dom-support",
+  "repository": "detects/dom-support",
+  "description": "Test browser rendering/styling quirks. Extracted from jQuery",
+  "version": "0.0.4",
+  "keywords": [],
+  "dependencies": {
+    "ded/domready": "*"
+  },
+  "development": {
+    "dependencies": {
+      "timoxley/assert": "*"
+    }
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "resolved": "6258a9744f1f0b5f80944ae534d6bc7bcad6be89"
+}

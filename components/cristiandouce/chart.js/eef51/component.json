@@ -1,0 +1,17 @@
+{
+  "name": "Chart.js",
+  "version": "0.2.0",
+  "description": "Simple HTML5 Charts using the canvas element",
+  "keywords": [
+    "charts"
+  ],
+  "homepage": "https://github.com/nnnick/Chart.js",
+  "author": "nnnick",
+  "main": "Chart.js",
+  "scripts": [
+    "Chart.js"
+  ],
+  "dependencies": {},
+  "repository": "cristiandouce/chart.js",
+  "resolved": "eef51c382d952b9d71060895cda08e3bfdce99b3"
+}

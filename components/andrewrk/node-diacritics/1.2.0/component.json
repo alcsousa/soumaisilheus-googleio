@@ -1,0 +1,21 @@
+{
+  "name": "diacritics",
+  "description": "remove diacritics from strings ('ascii folding')",
+  "version": "1.2.0",
+  "keywords": [
+    "diacritics",
+    "remove",
+    "removal",
+    "search",
+    "string",
+    "ascii",
+    "folding"
+  ],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js"
+  ],
+  "repository": "andrewrk/diacritics",
+  "resolved": "bf8236b2e70cfa4989e5216d3325fcee016716df"
+}

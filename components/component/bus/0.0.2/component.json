@@ -1,0 +1,13 @@
+{
+  "name": "bus",
+  "description": "Application-wide event bus",
+  "version": "0.0.2",
+  "dependencies": {
+    "component/emitter": "*"
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "repository": "component/bus",
+  "resolved": "8f32b530c966fd5b180dbc1c487720327fbf20f7"
+}

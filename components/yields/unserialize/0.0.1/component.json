@@ -1,0 +1,19 @@
+{
+  "name": "unserialize",
+  "description": "Unserialize a serialized javascript value.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {
+    "dependencies": {
+      "visionmedia/mocha": "*",
+      "visionmedia/mocha-matrix": "*"
+    }
+  },
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ],
+  "repository": "yields/unserialize",
+  "resolved": "1de67783ba2f36f1e34e289d78631db81e689ab5"
+}

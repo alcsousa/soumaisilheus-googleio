@@ -1,0 +1,20 @@
+{
+  "name": "delegate",
+  "description": "Event delegation component",
+  "version": "0.1.0",
+  "keywords": [
+    "event",
+    "events",
+    "delegate",
+    "delegation"
+  ],
+  "dependencies": {
+    "component/matches-selector": "*",
+    "component/event": "*"
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "repository": "component/delegate",
+  "resolved": "76ce7fe3aaf4bdc0cc433b4f5a185dfd04d63481"
+}

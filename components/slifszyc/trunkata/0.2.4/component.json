@@ -1,0 +1,25 @@
+{
+  "name": "trunkata",
+  "version": "0.2.4",
+  "description": "Truncation utility which preserves HTML content and can truncate by lines.",
+  "dependencies": {
+    "slifszyc/line-height": "0.1.3"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "lib/trunkata.js",
+  "keywords": [
+    "truncate",
+    "truncation",
+    "text",
+    "dom",
+    "html",
+    "tag",
+    "lines"
+  ],
+  "scripts": [
+    "lib/trunkata.js"
+  ],
+  "repository": "twolfson/trunkata",
+  "resolved": "9c87144bf3ddb4c4da4edcb8ef66aae2e383bdb9"
+}

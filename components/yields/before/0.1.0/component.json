@@ -1,0 +1,16 @@
+{
+  "name": "before",
+  "description": "standalone before",
+  "version": "0.1.0",
+  "keywords": [
+    "before"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ],
+  "repository": "yields/before",
+  "resolved": "370b942a1d0b183840d3a68bd5deae1182b01551"
+}

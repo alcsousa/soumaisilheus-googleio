@@ -1,0 +1,16 @@
+{
+  "name": "get-attribute",
+  "description": "A cross-browser implementation of getAttribute",
+  "version": "0.0.1",
+  "keywords": [
+    "getattribute",
+    "attribute",
+    "html",
+    "cross-browser"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "repository": "javve/get-attribute",
+  "resolved": "22874519f6f31e9f624a69de3c5692af6eb09cfd"
+}

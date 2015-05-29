@@ -1,0 +1,37 @@
+{
+  "name": "toggle",
+  "license": "MIT",
+  "version": "0.1.0",
+  "description": "A toggle UI element.",
+  "keywords": [
+    "toggle",
+    "ui",
+    "checkbox"
+  ],
+  "dependencies": {
+    "component/classes": "*",
+    "component/domify": "*",
+    "component/emitter": "*",
+    "component/events": "*",
+    "component/value": "*",
+    "yields/prevent": "*",
+    "yields/stop": "*"
+  },
+  "development": {
+    "dependencies": {
+      "component/assert": "*"
+    }
+  },
+  "scripts": [
+    "lib/index.js"
+  ],
+  "styles": [
+    "lib/index.css"
+  ],
+  "templates": [
+    "lib/index.html"
+  ],
+  "main": "lib/index.js",
+  "repository": "segmentio/toggle",
+  "resolved": "907a1eed8a02b4623bb6a4f0b111ff00789c4789"
+}

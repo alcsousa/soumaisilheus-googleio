@@ -1,0 +1,26 @@
+{
+  "name": "loading-lock",
+  "description": "Loading lock component.",
+  "version": "0.0.2",
+  "keywords": [
+    "loading",
+    "lock",
+    "spin",
+    "spinner",
+    "UI"
+  ],
+  "dependencies": {
+    "component/spin": "*",
+    "component/classes": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "loading-lock.css"
+  ],
+  "repository": "cristiandouce/loading-lock",
+  "resolved": "0867923281013c00b503c4bc866e103fd5024105"
+}

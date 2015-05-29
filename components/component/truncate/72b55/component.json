@@ -1,0 +1,14 @@
+{
+  "name": "truncate",
+  "description": "String truncation utility ...",
+  "author": "Damian Suarez <rdsuarez@gmail.com>",
+  "version": "0.1.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js"
+  ],
+  "repository": "component/truncate",
+  "resolved": "72b550d65e439e8ea58ea2141fa7e3fb3ff2ca0d"
+}

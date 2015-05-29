@@ -1,0 +1,27 @@
+{
+  "name": "datepicker",
+  "description": "Datepicker ui component built on component/calendar",
+  "version": "1.0.2",
+  "keywords": [
+    "date",
+    "picker",
+    "calendar"
+  ],
+  "dependencies": {
+    "component/bind": "1.0.0",
+    "component/calendar": "0.1.0",
+    "component/popover": "1.1.0",
+    "component/aurora": "*",
+    "component/event": "0.1.4"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ],
+  "styles": [
+    "datepicker.css"
+  ],
+  "repository": "gvilarino/datepicker",
+  "resolved": "46d63ebda88bfb4849782ca4c5c04908ff3fc56a"
+}

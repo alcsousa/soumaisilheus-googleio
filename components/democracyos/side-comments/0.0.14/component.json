@@ -1,0 +1,26 @@
+{
+  "name": "side-comments",
+  "version": "0.0.14",
+  "repository": "DemocracyOS/side-comments",
+  "dependencies": {
+    "component/emitter": "1.1.3",
+    "component/t": "1.0.0",
+    "cristiandouce/confirmation": "d0861",
+    "slifszyc/trunkata": "0.2.4",
+    "component/classes": "1.2.0",
+    "component/dom": "1.0.6",
+    "component/closest": "0.1.4"
+  },
+  "scripts": [
+    "js/main.js",
+    "js/section.js",
+    "js/vendor/lodash-custom.js",
+    "js/helpers/mobile-check.js"
+  ],
+  "main": "js/main.js",
+  "templates": [
+    "templates/section.html",
+    "templates/comment.html"
+  ],
+  "resolved": "ab70698c480147740517f75815e616d749a742a1"
+}

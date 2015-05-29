@@ -1,0 +1,20 @@
+{
+  "name": "classes",
+  "version": "1.2.0",
+  "description": "Cross-browser element class list",
+  "keywords": [
+    "dom",
+    "html",
+    "classList",
+    "class",
+    "ui"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {
+    "component/indexof": "*"
+  },
+  "repository": "component/classes",
+  "resolved": "ef514a6d7f41bab0cbfd2af9ef7d4b9e3c734f44"
+}

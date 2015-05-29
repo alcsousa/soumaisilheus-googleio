@@ -1,0 +1,22 @@
+{
+  "name": "ease",
+  "description": "Easing functions (for canvas etc)",
+  "version": "1.0.0",
+  "keywords": [
+    "ease",
+    "easing",
+    "tween"
+  ],
+  "dependencies": {},
+  "development": {
+    "dependencies": {
+      "component/raf": "*"
+    }
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT",
+  "repository": "component/ease",
+  "resolved": "4598f8260d85fb0a6cf9074f396fbe693f74c670"
+}

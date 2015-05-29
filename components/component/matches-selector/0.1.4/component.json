@@ -1,0 +1,23 @@
+{
+  "name": "matches-selector",
+  "description": "Check if an element matches a given selector",
+  "version": "0.1.4",
+  "keywords": [
+    "match",
+    "element",
+    "selector"
+  ],
+  "dependencies": {
+    "component/query": "*"
+  },
+  "development": {
+    "dependencies": {
+      "component/domify": "*"
+    }
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "repository": "component/matches-selector",
+  "resolved": "cd15b7dd2e14c729af394d9481bcb18ec4237cfb"
+}

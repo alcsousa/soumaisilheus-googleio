@@ -1,0 +1,18 @@
+{
+  "name": "stack",
+  "description": "Get a stack of CallSite objects",
+  "version": "0.0.1",
+  "keywords": [
+    "stack",
+    "error",
+    "callsite",
+    "debug"
+  ],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js"
+  ],
+  "repository": "component/stack",
+  "resolved": "fa8da6088a10927b8bcdbd6bc8ba9337755927f4"
+}

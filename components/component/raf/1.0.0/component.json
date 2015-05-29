@@ -1,0 +1,17 @@
+{
+  "name": "raf",
+  "description": "request animation frame",
+  "version": "1.0.0",
+  "keywords": [
+    "animate",
+    "requestAnimationFrame",
+    "performance"
+  ],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js"
+  ],
+  "repository": "component/raf",
+  "resolved": "e06c878b23c8cc63009d754b516f3556d1b0f089"
+}

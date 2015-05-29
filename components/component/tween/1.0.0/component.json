@@ -1,0 +1,26 @@
+{
+  "name": "tween",
+  "description": "Motion tween engine using 'ease'",
+  "version": "1.0.0",
+  "keywords": [
+    "tween",
+    "tweening",
+    "animation"
+  ],
+  "dependencies": {
+    "component/emitter": "1.0.0",
+    "component/ease": "1.0.0"
+  },
+  "development": {
+    "dependencies": {
+      "component/raf": "*",
+      "component/autoscale-canvas": "*"
+    }
+  },
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ],
+  "repository": "component/tween",
+  "resolved": "d48fb13f5681c22592545505f2e13009907da2cb"
+}

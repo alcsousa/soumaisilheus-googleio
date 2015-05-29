@@ -1,0 +1,14 @@
+{
+  "name": "stop",
+  "description": "Cross-browser .stopPropagation.",
+  "version": "0.0.2",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ],
+  "repository": "yields/stop",
+  "resolved": "84ff9a19171d944ecf2081c81859e7353efb1c58"
+}

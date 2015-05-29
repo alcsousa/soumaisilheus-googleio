@@ -1,0 +1,21 @@
+{
+  "name": "merge-util",
+  "version": "0.2.0",
+  "description": "Deep merge object utility",
+  "keywords": [
+    "merge",
+    "object",
+    "deep",
+    "component",
+    "util"
+  ],
+  "dependencies": {
+    "component/type": "c817c"
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "repository": "cristiandouce/merge-util",
+  "resolved": "2e1c808f61a84b60acb9e036ce0b9baef4df35cf"
+}

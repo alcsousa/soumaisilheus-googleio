@@ -1,0 +1,23 @@
+{
+  "name": "inserted",
+  "description": "invoke a callback when a DOM element is inserted",
+  "version": "0.0.2",
+  "keywords": [
+    "dom",
+    "event",
+    "insertion"
+  ],
+  "dependencies": {
+    "component/within-document": "*",
+    "component/mutation-observer": "*"
+  },
+  "development": {},
+  "scripts": [
+    "index.js",
+    "fallback.js",
+    "dom4.js"
+  ],
+  "license": "MIT",
+  "repository": "component/inserted",
+  "resolved": "7f29e1a15664dffece7a4e3bdc81f7be4d5a76d1"
+}

@@ -1,0 +1,18 @@
+{
+  "name": "t",
+  "description": "tiny translation helper",
+  "version": "1.0.0",
+  "keywords": [
+    "translate",
+    "i18n",
+    "internationalization",
+    "gettext"
+  ],
+  "dependencies": {},
+  "development": {},
+  "scripts": [
+    "index.js"
+  ],
+  "repository": "component/t",
+  "resolved": "a0fe5fd10ee8635a089d71ec127de96436b94af3"
+}

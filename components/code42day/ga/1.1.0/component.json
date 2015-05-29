@@ -1,0 +1,19 @@
+{
+  "name": "ga",
+  "description": "Google Analytics tracking snippet",
+  "version": "1.1.0",
+  "keywords": [
+    "google",
+    "analytics"
+  ],
+  "dependencies": {
+    "code42day/dataset": "0.2.2",
+    "code42day/load": "1.0.0"
+  },
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ],
+  "repository": "code42day/ga",
+  "resolved": "b6368a522d427ebde81faf4bd20b4c9078711dc5"
+}

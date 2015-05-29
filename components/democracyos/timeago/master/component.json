@@ -1,0 +1,21 @@
+{
+  "name": "timeago",
+  "description": "Simple timeago component with moment.js i18n support.",
+  "version": "0.0.1",
+  "keywords": [
+    "time",
+    "ago",
+    "i18n"
+  ],
+  "dependencies": {
+    "DemocracyOS/moment": "develop"
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "development": {},
+  "license": "MIT",
+  "repository": "DemocracyOS/timeago",
+  "resolved": "6b9959e08d22b2a5aeac7a40833b64c91d738c64"
+}

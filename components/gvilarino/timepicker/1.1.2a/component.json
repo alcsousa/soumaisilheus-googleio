@@ -1,0 +1,29 @@
+{
+  "name": "timepicker",
+  "demo": "http://code42day.github.io/timepicker/",
+  "description": "Timepicker component",
+  "version": "1.1.2a",
+  "keywords": [],
+  "dependencies": {
+    "gvilarino/clock": "1.2.1a",
+    "component/emitter": "1.1.2",
+    "component/event": "0.1.3",
+    "component/popover": "1.1.0"
+  },
+  "development": {
+    "dependencies": {
+      "code42day/aurora-clock": "*",
+      "component/aurora-popover": "*"
+    }
+  },
+  "license": "MIT",
+  "scripts": [
+    "index.js",
+    "lib/timepicker.js"
+  ],
+  "styles": [
+    "lib/timepicker.css"
+  ],
+  "repository": "code42day/timepicker",
+  "resolved": "a33a67db42fd09ac3119a0e460e9055e5b4447ff"
+}

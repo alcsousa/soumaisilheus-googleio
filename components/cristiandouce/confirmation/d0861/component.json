@@ -1,0 +1,24 @@
+{
+  "name": "confirmation",
+  "description": "Confirmation component",
+  "version": "0.0.4",
+  "keywords": [
+    "confirmation",
+    "ui"
+  ],
+  "dependencies": {
+    "component/jquery": "*",
+    "cristiandouce/dialog": "2b0e7",
+    "component/inherit": "*"
+  },
+  "scripts": [
+    "index.js",
+    "confirmation.js"
+  ],
+  "styles": [
+    "confirmation.css"
+  ],
+  "license": "MIT",
+  "repository": "cristiandouce/confirmation",
+  "resolved": "d0861c9160fdfcb0e7e3849419acb0d3974bc207"
+}

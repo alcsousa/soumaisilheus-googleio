@@ -1,0 +1,197 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/node', '/usr/bin/npm', 'install' ]
+2 info using npm@1.4.28
+3 info using node@v0.10.38
+4 verbose node symlink /usr/bin/node
+5 verbose readDependencies using package.json deps
+6 verbose install where, deps [ '/opt/lampp/htdocs/php/app-0.17.0',
+6 verbose install   [ 'arr-diff',
+6 verbose install     'batch',
+6 verbose install     'bowser',
+6 verbose install     'builder-jade',
+6 verbose install     'change-case',
+6 verbose install     'co-prompt',
+6 verbose install     'commander',
+6 verbose install     'component',
+6 verbose install     'component-builder',
+6 verbose install     'component-resolver',
+6 verbose install     'component-stylus-plugin',
+6 verbose install     'component-type',
+6 verbose install     'cookie-parser',
+6 verbose install     'cors',
+6 verbose install     'debug',
+6 verbose install     'democracyos-db',
+6 verbose install     'express',
+6 verbose install     'express-sslify',
+6 verbose install     'fb-signed-parser',
+6 verbose install     'http-auth',
+6 verbose install     'imap',
+6 verbose install     'jade',
+6 verbose install     'json-file-plus',
+6 verbose install     'jwt-simple',
+6 verbose install     'locale',
+6 verbose install     'marked',
+6 verbose install     'merge-util',
+6 verbose install     'mkdirp',
+6 verbose install     'moment',
+6 verbose install     'mongoose',
+6 verbose install     'mongoose-gravatar',
+6 verbose install     'mongoose-validators',
+6 verbose install     'mongoose-voting',
+6 verbose install     'node-path',
+6 verbose install     'nomnom',
+6 verbose install     'notifier-client',
+6 verbose install     'nowww',
+6 verbose install     'passport',
+6 verbose install     'passport-facebook',
+6 verbose install     'passport-local',
+6 verbose install     'passport-local-mongoose',
+6 verbose install     'rework-math',
+6 verbose install     'rework-shade',
+6 verbose install     'rework-vars',
+6 verbose install     'strip',
+6 verbose install     'stylus',
+6 verbose install     't-component',
+6 verbose install     'transliteration',
+6 verbose install     'truncate',
+6 verbose install     'type-component',
+6 verbose install     'xss',
+6 verbose install     'google-translate' ] ]
+7 info preinstall DemocracyOS@0.17.0
+8 warn package.json co-prompt@1.0.0 No repository field.
+9 warn package.json t-component@1.0.0 repo should probably be repository.
+10 warn package.json type-component@0.0.1 No repository field.
+11 verbose readDependencies using package.json deps
+12 verbose already installed skipping builder-jade@1.0.1 /opt/lampp/htdocs/php/app-0.17.0
+13 verbose already installed skipping change-case@^2.3.0 /opt/lampp/htdocs/php/app-0.17.0
+14 verbose already installed skipping co-prompt@~1.0.0 /opt/lampp/htdocs/php/app-0.17.0
+15 verbose already installed skipping commander@~2.0.0 /opt/lampp/htdocs/php/app-0.17.0
+16 verbose already installed skipping component@1.0.0 /opt/lampp/htdocs/php/app-0.17.0
+17 verbose already installed skipping component-builder@1.2.0 /opt/lampp/htdocs/php/app-0.17.0
+18 verbose already installed skipping component-resolver@1.2.4 /opt/lampp/htdocs/php/app-0.17.0
+19 verbose already installed skipping component-stylus-plugin@~0.3.1 /opt/lampp/htdocs/php/app-0.17.0
+20 verbose already installed skipping component-type@^1.1.0 /opt/lampp/htdocs/php/app-0.17.0
+21 verbose already installed skipping cookie-parser@1.3.3 /opt/lampp/htdocs/php/app-0.17.0
+22 verbose already installed skipping cors@2.5.3 /opt/lampp/htdocs/php/app-0.17.0
+23 verbose already installed skipping debug@^2.1.3 /opt/lampp/htdocs/php/app-0.17.0
+24 verbose already installed skipping democracyos-db@0.0.1 /opt/lampp/htdocs/php/app-0.17.0
+25 verbose already installed skipping express@~3.4.7 /opt/lampp/htdocs/php/app-0.17.0
+26 verbose already installed skipping express-sslify@0.1.1 /opt/lampp/htdocs/php/app-0.17.0
+27 verbose already installed skipping fb-signed-parser@0.0.3 /opt/lampp/htdocs/php/app-0.17.0
+28 verbose already installed skipping http-auth@1.3.0 /opt/lampp/htdocs/php/app-0.17.0
+29 verbose already installed skipping imap@~0.8.7 /opt/lampp/htdocs/php/app-0.17.0
+30 verbose already installed skipping jade@1.6.0 /opt/lampp/htdocs/php/app-0.17.0
+31 verbose already installed skipping json-file-plus@^2.0.0 /opt/lampp/htdocs/php/app-0.17.0
+32 verbose already installed skipping jwt-simple@0.2.0 /opt/lampp/htdocs/php/app-0.17.0
+33 verbose already installed skipping locale@0.0.20 /opt/lampp/htdocs/php/app-0.17.0
+34 verbose already installed skipping marked@~0.2.9 /opt/lampp/htdocs/php/app-0.17.0
+35 verbose already installed skipping merge-util@0.3.1 /opt/lampp/htdocs/php/app-0.17.0
+36 verbose already installed skipping mkdirp@0.5.0 /opt/lampp/htdocs/php/app-0.17.0
+37 verbose already installed skipping moment@2.9.0 /opt/lampp/htdocs/php/app-0.17.0
+38 verbose already installed skipping mongoose@3.8.24 /opt/lampp/htdocs/php/app-0.17.0
+39 verbose already installed skipping mongoose-gravatar@0.3.0 /opt/lampp/htdocs/php/app-0.17.0
+40 verbose already installed skipping mongoose-validators@^0.1.0 /opt/lampp/htdocs/php/app-0.17.0
+41 verbose already installed skipping mongoose-voting@0.1.1 /opt/lampp/htdocs/php/app-0.17.0
+42 verbose already installed skipping node-path@0.0.3 /opt/lampp/htdocs/php/app-0.17.0
+43 verbose already installed skipping nomnom@^1.8.1 /opt/lampp/htdocs/php/app-0.17.0
+44 verbose already installed skipping notifier-client@0.2.0 /opt/lampp/htdocs/php/app-0.17.0
+45 verbose already installed skipping nowww@~1.1.2 /opt/lampp/htdocs/php/app-0.17.0
+46 verbose already installed skipping passport@~0.1.17 /opt/lampp/htdocs/php/app-0.17.0
+47 verbose already installed skipping passport-facebook@~2.0.0 /opt/lampp/htdocs/php/app-0.17.0
+48 verbose already installed skipping passport-local@~0.1.6 /opt/lampp/htdocs/php/app-0.17.0
+49 verbose already installed skipping passport-local-mongoose@~0.2.4 /opt/lampp/htdocs/php/app-0.17.0
+50 verbose already installed skipping rework-math@~1.0.1 /opt/lampp/htdocs/php/app-0.17.0
+51 verbose already installed skipping rework-shade@~1.4.3 /opt/lampp/htdocs/php/app-0.17.0
+52 verbose already installed skipping rework-vars@~2.0.3 /opt/lampp/htdocs/php/app-0.17.0
+53 verbose already installed skipping strip@0.0.7 /opt/lampp/htdocs/php/app-0.17.0
+54 verbose already installed skipping stylus@0.48.1 /opt/lampp/htdocs/php/app-0.17.0
+55 verbose already installed skipping t-component@1.0.0 /opt/lampp/htdocs/php/app-0.17.0
+56 verbose already installed skipping transliteration@~0.1.1 /opt/lampp/htdocs/php/app-0.17.0
+57 verbose already installed skipping truncate@~1.0.2 /opt/lampp/htdocs/php/app-0.17.0
+58 verbose already installed skipping type-component@0.0.1 /opt/lampp/htdocs/php/app-0.17.0
+59 verbose already installed skipping xss@0.1.20 /opt/lampp/htdocs/php/app-0.17.0
+60 verbose already installed skipping google-translate@^0.1.8 /opt/lampp/htdocs/php/app-0.17.0
+61 verbose already installed skipping arr-diff@^1.0.1 /opt/lampp/htdocs/php/app-0.17.0
+62 verbose already installed skipping batch@~0.5.2 /opt/lampp/htdocs/php/app-0.17.0
+63 verbose already installed skipping bowser@0.7.2 /opt/lampp/htdocs/php/app-0.17.0
+64 silly resolved []
+65 info build /opt/lampp/htdocs/php/app-0.17.0
+66 verbose linkStuff [ false, false, false, '/opt/lampp/htdocs/php' ]
+67 info linkStuff DemocracyOS@0.17.0
+68 verbose linkBins DemocracyOS@0.17.0
+69 verbose linkMans DemocracyOS@0.17.0
+70 verbose rebuildBundles DemocracyOS@0.17.0
+71 verbose rebuildBundles [ '.bin',
+71 verbose rebuildBundles   'arr-diff',
+71 verbose rebuildBundles   'batch',
+71 verbose rebuildBundles   'bowser',
+71 verbose rebuildBundles   'builder-jade',
+71 verbose rebuildBundles   'change-case',
+71 verbose rebuildBundles   'co-prompt',
+71 verbose rebuildBundles   'commander',
+71 verbose rebuildBundles   'component',
+71 verbose rebuildBundles   'component-builder',
+71 verbose rebuildBundles   'component-resolver',
+71 verbose rebuildBundles   'component-stylus-plugin',
+71 verbose rebuildBundles   'component-type',
+71 verbose rebuildBundles   'cookie-parser',
+71 verbose rebuildBundles   'cors',
+71 verbose rebuildBundles   'debug',
+71 verbose rebuildBundles   'democracyos-db',
+71 verbose rebuildBundles   'express',
+71 verbose rebuildBundles   'express-sslify',
+71 verbose rebuildBundles   'fb-signed-parser',
+71 verbose rebuildBundles   'google-translate',
+71 verbose rebuildBundles   'http-auth',
+71 verbose rebuildBundles   'imap',
+71 verbose rebuildBundles   'jade',
+71 verbose rebuildBundles   'json-file-plus',
+71 verbose rebuildBundles   'jwt-simple',
+71 verbose rebuildBundles   'locale',
+71 verbose rebuildBundles   'marked',
+71 verbose rebuildBundles   'merge-util',
+71 verbose rebuildBundles   'mkdirp',
+71 verbose rebuildBundles   'moment',
+71 verbose rebuildBundles   'mongoose',
+71 verbose rebuildBundles   'mongoose-gravatar',
+71 verbose rebuildBundles   'mongoose-validators',
+71 verbose rebuildBundles   'mongoose-voting',
+71 verbose rebuildBundles   'node-path',
+71 verbose rebuildBundles   'nomnom',
+71 verbose rebuildBundles   'notifier-client',
+71 verbose rebuildBundles   'nowww',
+71 verbose rebuildBundles   'passport',
+71 verbose rebuildBundles   'passport-facebook',
+71 verbose rebuildBundles   'passport-local',
+71 verbose rebuildBundles   'passport-local-mongoose',
+71 verbose rebuildBundles   'rework-math',
+71 verbose rebuildBundles   'rework-shade',
+71 verbose rebuildBundles   'rework-vars',
+71 verbose rebuildBundles   'strip',
+71 verbose rebuildBundles   'stylus',
+71 verbose rebuildBundles   't-component',
+71 verbose rebuildBundles   'transliteration',
+71 verbose rebuildBundles   'truncate',
+71 verbose rebuildBundles   'type-component',
+71 verbose rebuildBundles   'xss' ]
+72 info install DemocracyOS@0.17.0
+73 info postinstall DemocracyOS@0.17.0
+74 verbose unsafe-perm in lifecycle true
+75 info DemocracyOS@0.17.0 Failed to exec postinstall script
+76 error DemocracyOS@0.17.0 postinstall: `node ./bin/dos-install --config && node ./bin/dos-build`
+76 error Exit status 1
+77 error Failed at the DemocracyOS@0.17.0 postinstall script.
+77 error This is most likely a problem with the DemocracyOS package,
+77 error not with npm itself.
+77 error Tell the author that this fails on your system:
+77 error     node ./bin/dos-install --config && node ./bin/dos-build
+77 error You can get their info via:
+77 error     npm owner ls DemocracyOS
+77 error There is likely additional logging output above.
+78 error System Linux 3.13.0-45-generic
+79 error command "/usr/bin/node" "/usr/bin/npm" "install"
+80 error cwd /opt/lampp/htdocs/php/app-0.17.0
+81 error node -v v0.10.38
+82 error npm -v 1.4.28
+83 error code ELIFECYCLE
+84 verbose exit [ 1, true ]

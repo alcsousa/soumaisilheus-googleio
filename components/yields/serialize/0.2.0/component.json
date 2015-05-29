@@ -1,0 +1,26 @@
+{
+  "name": "serialize",
+  "description": "serialize forms.",
+  "version": "0.2.0",
+  "keywords": [
+    "serialize",
+    "urlencoded"
+  ],
+  "dependencies": {
+    "yields/submittable": "*",
+    "component/value": "*",
+    "redventures/reduce": "*"
+  },
+  "development": {
+    "dependencies": {
+      "visionmedia/mocha": "*"
+    }
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "repository": "yields/serialize",
+  "resolved": "db8d3554c8f8abf23dba6a0f3e8a9b8f8e703497"
+}

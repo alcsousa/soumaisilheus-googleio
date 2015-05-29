@@ -1,0 +1,104 @@
+{
+  "locale": "pt",
+  "protocol": "http",
+  "host": "localhost",
+  "publicPort": 3000,
+  "mongoUrl": "mongodb://localhost/soumaisilheus",
+  "mongoUsersUrl": "",
+  "jwtSecret": "09be889ff02be35506ed41acbaa0b4bf2566d1b4aaaaaaaaaaaaaaaaaaaaaaa",
+  "deploymentId": "",
+  "deploymentDomain": "",
+  "corsDomains": "",
+  "signinUrl": "",
+  "signupUrl": "",
+  "settingsUrl": "",
+  "staff": ["andrexcardoso@gmail.com"],
+  "facebookSignin": false,
+  "auth":
+  {
+
+    "basic":
+    {
+      "username": "admin",
+      "password": "admin"
+    },
+    "facebook":
+    {
+      "clientID": "",
+      "clientSecret": "",
+      "permissions": [ "email" ]
+    }
+  },
+  "https": {
+    "serverKey": "server.key",
+    "serverCert": "server.crt",
+    "port": 443,
+    "redirect": "normal"
+  },
+  "notifications": {
+    "url": "http://localhost:9001/api/events",
+    "token": "1234"
+  },
+  "client": [
+    "protocol",
+    "host",
+    "publicPort",
+    "env",
+    "locale",
+    "logo",
+    "logoMobile",
+    "favicon",
+    "organizationName",
+    "organizationUrl",
+    "learnMoreUrl",
+    "googleAnalyticsTrackingId",
+    "commentsPerPage",
+    "frequentlyAskedQuestions",
+    "termsOfService",
+    "privacyPolicy",
+    "glossary",
+    "signinUrl",
+    "signupUrl",
+    "settingsUrl",
+    "clientDebug",
+    "homeLink",
+    "usersWhitelist",
+    "deploymentDomain",
+    "headerBackgroundColor",
+    "headerFontColor",
+    "facebookSignin",
+    "visibility",
+    "usersWhitelist"
+  ],
+  "socialshare": {
+    "siteName": "Sou+Ilhéus",
+    "siteDescription": "Sistema de votação de leis que incentiva a participação da sociedade ilheense no debate político.",
+    "image": "https://2.gravatar.com/avatar/a8b9176bd0d042db078bf38500727671?d=https%3A%2F%2Fidenticons.github.com%2F14bae9f2564556f8eb23cc263a779f59.png&s=400",
+    "domain": "",
+    "twitter": {
+      "username": ""
+    }
+  },
+  "logo": "/lib/boot/images/logo.png",
+  "logoMobile": "/lib/boot/images/logo.png",
+  "favicon": " /lib/boot/images/favicon.ico",
+  "organizationName": "Sou + Ilhéus",
+  "organizationUrl": "https://github.com/DemocracyOS/app",
+  "learnMoreUrl": "http://www.democracyos.org",
+  "googleAnalyticsTrackingId": "",
+  "rssEnabled": true,
+  "commentsPerPage": 0,
+  "spamLimit": 5,
+  "frequentlyAskedQuestions": false,
+  "termsOfService": false,
+  "privacyPolicy": false,
+  "glossary": false,
+  "homeLink": "/",
+  "clientDebug": "",
+  "usersWhitelist": false,
+  "headerBackgroundColor": "#d7d7d7",
+  "headerFontColor": "",
+  "googleAPIKey": "",
+  "visibility": "visible",
+  "usersWhitelist": false
+}

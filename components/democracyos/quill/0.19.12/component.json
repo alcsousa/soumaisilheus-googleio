@@ -1,0 +1,17 @@
+{
+  "name": "quill",
+  "description": "A cross browser rich text editor with an API",
+  "version": "0.19.12",
+  "dependencies": {},
+  "main": "index.js",
+  "scripts": [
+    "index.js",
+    "dist/quill.js"
+  ],
+  "styles": [
+    "dist/quill.base.css",
+    "dist/quill.snow.css"
+  ],
+  "repository": "democracyos/quill",
+  "resolved": "fe8d17b6c2d6bd7175097599ac6aadf072490b8a"
+}

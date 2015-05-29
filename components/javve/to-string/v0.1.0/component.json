@@ -1,0 +1,21 @@
+{
+  "name": "to-string",
+  "description": "A minimal function for converting anyting to a string",
+  "version": "0.1.0",
+  "keywords": [],
+  "dependencies": {},
+  "development": {
+    "dependencies": {
+      "visionmedia/mocha": "*",
+      "techjacker/expect.js": "*"
+    }
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "twitter": "@javve",
+  "repository": "javve/to-string",
+  "resolved": "36c14979467fd6d602b300e5f015eb4b61706338"
+}
